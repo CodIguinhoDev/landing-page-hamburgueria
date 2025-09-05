@@ -10,4 +10,4 @@ Layout limpo
 
 Apresentação do produto principal com texto descritivo e imagem em destaque
 
-![Image](https://github.com/user-attachments/assets/f350ea26-fdea-4ab0-8c9f-6c8911613769)
+![Image](https://github.com/user-attachments/assets/9398f397-2727-4320-97c5-1836d86d0fdd)
