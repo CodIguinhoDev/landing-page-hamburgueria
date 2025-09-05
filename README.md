@@ -1,6 +1,7 @@
 Este é um projeto de landing page desenvolvido para uma hamburgueria fictícia para destacar o produto principal, proporcionando uma experiência visual agradável e convidativa para os usuários.
 
 Tecnologias Utilizadas
+
 HTML5 e CSS3
 
 Funcionalidades
