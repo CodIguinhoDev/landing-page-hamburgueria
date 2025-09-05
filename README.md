@@ -5,6 +5,7 @@ Tecnologias Utilizadas
 HTML5 e CSS3
 
 Funcionalidades
+
 Menu de navegação fixo (Home, Sobre nós, Menu, Contato)
 
 Layout limpo
